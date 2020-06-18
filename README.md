@@ -1,4 +1,4 @@
-!{logica}(https://img.shields.io/badge/logica-1.0-green)
+![logica](https://img.shields.io/badge/logica-1.0-green)
 ![Build Passing](https://img.shields.io/badge/build-passing-yellow)
 # Material Logica
 meu material de logica de programaçao para a uc09 do senac
